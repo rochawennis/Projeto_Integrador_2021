@@ -9,7 +9,13 @@
  
 
 * Wennis Rocha de Andrade
-* 
+* Vinicius Teixeira Santos
+* Rafael Duarte Morales
+* Lucas Groba Moro
+* Mateus Lira Cabral
+* Matheus Bassi Leles
+* Lucas Alves Ribeiro
+* Pedro Henrique Ferreira de Souza
 
 
 ## Professor
