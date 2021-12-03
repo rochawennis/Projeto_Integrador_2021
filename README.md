@@ -29,7 +29,7 @@ Hi, I'm Edson Melo de Souza (2021, November 20). I teach undergraduate courses i
 ## Conteúdo:
 
 ```
-O principal objetivo desse trabalho é realizar o levantamento estatístico de acidentes aéreos ocorridos em território brasileiro, entre os anos de 2010 a 2019, buscando apresentar de forma gráfica informações que envolvem a aviação nacional.
+O principal objetivo desse trabalho é realizar o levantamento estatístico de acidentes aéreos ocorridos em território brasileiro, entre os anos de 2010 a 2019, buscando apresentar, de forma gráfica informações, que envolvem a aviação nacional.
 
 O conteúdo deste documento levou em consideração os dados, disponibilizados na plataforma Github.
 
