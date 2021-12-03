@@ -28,8 +28,7 @@ Hi, I'm Edson Melo de Souza (2021, November 20). I teach undergraduate courses i
 
 ## Conteúdo:
 
-```
-https://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira/resource/9d8a7e09-5f75-47b3-891b-b5f1bab26d59
+```O principal objetivo desse trabalho é realizar o levantamento estatístico de acidentes aéreos ocorridos em território brasileiro, entre os anos de 2010 a 2019, buscando apresentar de forma gráfica informações que envolvem a aviação nacional. O conteúdo deste documento levou em consideração os dados, disponibilizados na plataforma Github, as principais ocorrências abordadas serão: Região, tipo de aeronave, principais ocorrências, ocorrências por fabricante entre outros. Os principais resultados da analise foram: As aeronaves mais afetadas são os aviões com 4.213 mil acidentes destacando-se as aeronaves com até 6 acentos, monomotores com fabricação de 2008. A principal falha desses aviões são os pistões do motor que representam um total de 56,31 % dos problemas da aeronave, já a fabricante Cessna Aircraft foi a responsável tem um total de 800 casos ou 23,51% do total. Os acidentes em sua grande maioria são leves correspondendo a 55,1% do total, com o mês de janeiro sendo o mês com mais incidentes no ano, já o Sudeste representa a região que mais concentra ocorrências em números absolutos sendo são Paulo o estado mais afetado.
 ````
 
 ```
