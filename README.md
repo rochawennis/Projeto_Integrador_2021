@@ -40,10 +40,3 @@ Os principais resultados da análise foram:
 *   A principal falha desses aviões são os pistões do motor que representam um total de 56,31 % dos problemas da aeronave, já a fabricante Cessna Aircraft foi a responsável tem um total de 800 casos ou 23,51% do total.
 *   Os acidentes em sua grande maioria são leves correspondendo a 55,1% do total, com o mês de janeiro sendo o mês com mais incidentes no ano, já o Sudeste representa a região que mais concentra ocorrências em números absolutos sendo São Paulo o estado mais afetado.
 
-````
-
-```
-PORTAL BRASILEIRO DE DADOS ABERTOS. 
-Tabela de ocorrência. ???: CENIPA, 2015. Disponível em: 
-<http://sistema.cenipa.aer.mil.br/cenipa/media/opendata/ocorrencia.csv>. Acesso em: 20 nov. 2021.
-```
